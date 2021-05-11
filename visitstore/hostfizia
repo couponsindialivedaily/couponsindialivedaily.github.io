@@ -58,42 +58,8 @@ Hindu Group.
 </div>
 <div class="col-4 col-sm-4 col-md-3 col-lg-3 footer-section">
 <ul itemtype="http://www.schema.org/SiteNavigationElement" itemscope="" class=" hidden-xs">
-<li class=""><a href="https://www.thehindu.com/" itemprop="name" content="Home" class="footer-link-item"> Home
-<meta itemprop="url" content="https://www.thehindu.com/">
-</a></li>
-<li class=""><a href="https://www.thehindu.com/news/" itemprop="name" content="News" class="footer-link-item"> News
-<meta itemprop="url" content="https://www.thehindu.com/news/">
-</a></li>
-<li class=""><a href="https://www.thehindu.com/opinion/" itemprop="name" content="Opinion" class="footer-link-item">
-Opinion
-<meta itemprop="url" content="https://www.thehindu.com/opinion/">
-</a></li>
-<li class=""><a href="https://www.thehindu.com/business/" itemprop="name" content="Business" class="footer-link-item">
-Business
-<meta itemprop="url" content="https://www.thehindu.com/business/">
-</a></li>
-<li class=""><a href="https://www.thehindu.com/sport/" itemprop="name" content="Sport" class="footer-link-item">
-Sport
-<meta itemprop="url" content="https://www.thehindu.com/sport/">
-</a></li>
-<li class=""><a href="https://www.thehindu.com/sport/cricket/" itemprop="name" content="Cricket" class="footer-link-item">
-Cricket
-<meta itemprop="url" content="https://www.thehindu.com/sport/cricket/">
-</a></li>
-<li class=""><a href="https://crossword.thehindu.com/?utm_source=thehindu&amp;utm_medium=mainmenu" itemprop="name" content="Crossword+" target="_blank" rel="nofollow" class="footer-link-item"> Crossword+
-<meta itemprop="url" content="https://crossword.thehindu.com/?utm_source=thehindu&amp;utm_medium=mainmenu">
-</a></li>
-<li class=""><a href="https://www.thehindu.com/entertainment/" itemprop="name" content="Entertainment" class="footer-link-item">
-Entertainment
-<meta itemprop="url" content="https://www.thehindu.com/entertainment/">
-</a></li>
-<li class=""><a href="https://www.thehindu.com/life-and-style/" itemprop="name" content="Life &amp; Style" class="footer-link-item"> Life
-&amp; Style
-<meta itemprop="url" content="https://www.thehindu.com/life-and-style/">
-</a></li>
-<li class=""><a href="https://www.thehindu.com/thread/" itemprop="name" content="thREAD" class="footer-link-item">
-thREAD
-<meta itemprop="url" content="https://www.thehindu.com/thread/">
+<li class=""><a href="https://www.indialivedaily.com/" itemprop="name" content="Home" class="footer-link-item"> Home
+<meta itemprop="url" content="https://www.indialivedaily.com/">
 </a></li>
 </ul>
 </div>
